@@ -1,1 +1,0 @@
-creat file testLinux_2.txt testmaxim
